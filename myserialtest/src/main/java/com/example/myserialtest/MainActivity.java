@@ -53,6 +53,8 @@ public class MainActivity extends Activity {
             Log.i(TAG, "xxxxxxxxxxxxxxxx");
             super.handleMessage(msg);
 
+			
+			//
 
             switch (msg.what) {
                 case 1000:
